@@ -1,6 +1,6 @@
 
 
-Execution des deux classes dans la ligne de commande, en commençant par la classe Serveur qui nous permet de créer un serveur utilisant un port spécifique et qui va attendre une demande de connexion via des listners.
+Execution des deux classes Serveur et Client dans la ligne de commande, en commençant par la classe Serveur qui permet de créer un serveur utilisant un port spécifique et qui va attendre une demande de connexion via des listners.
 
 ![Capture d’écran (1)](https://user-images.githubusercontent.com/95504832/161427907-0ae03111-3663-4667-a695-6b65439af11f.png)
 
